@@ -1,6 +1,6 @@
 # OpenAI SDK for Java
 
-Get Started
+Get Started  
 Below are example code snippets for a few use cases. For additional information about OpenAI SDK, see full [documentation](https://github.com/openai/openai-java)  and [samples](https://github.com/openai/openai-java) .
 
 1. Authentication using API Key
